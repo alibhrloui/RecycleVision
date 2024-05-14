@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Welcome to the repository of our garbage classification project! We have developed a model using PyTorch and ResNet-18 that classifies garbage into six different types. The model has achieved an accuracy of **92.5%**.
+Welcome to the repository of our garbage classification project! We have developed a model using PyTorch and ResNet-18 that classifies garbage into six different types. The model has achieved an accuracy of **93.43%**.
 
 ## Dataset
 
@@ -26,20 +26,20 @@ pip install -r requirements.txt
 
 ## Usage
 
-The main code for this project is in a Jupyter notebook named `Garbage_Classification.ipynb`. To run the notebook, use the following command:
+The main code for this project is in a Jupyter notebook named `RecycleVision.ipynb`. To run the notebook, use the following command:
 
 ```bash
-jupyter notebook Garbage_Classification.ipynb
+jupyter notebook RecycleVision.ipynb
 ```
 
 ## Results
 
-Our model achieved an accuracy of **92.5%** on the test set. This is a significant improvement over previous models, demonstrating the power of ResNet-18 and PyTorch.
+Our model achieved an accuracy of **93.43%** on the test set. This is a significant improvement over previous models, demonstrating the power of ResNet-18 and PyTorch.
 
 ## License
 
 <pre>
- Copyright (c) 2024 Your Name
+ Copyright (c) 2024 Ali Baharloui
  
  This software is released under the MIT License.
  https://opensource.org/licenses/MIT
